@@ -1,0 +1,112 @@
+header {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+}
+
+footer {
+    background-color: wheat;
+    width: 100%;
+    height: 100px;
+}
+
+table {
+    border-spacing: 5px;
+    background-color: yellow;
+}
+
+td#a {
+    background-color: pink;
+}
+
+div#konijn {
+    background-color: aqua;
+}
+
+td#plaatjekonijn {
+    background-color: darkgreen;
+}
+
+td#b {
+    background-color: magenta;
+}
+
+div#bij {
+    background-color: palegreen;
+}
+
+td#plaatjebij {
+    background-color: black;
+}
+
+td#c {
+    background-color: violet;
+}
+
+div#otter {
+    background-color: blueviolet;
+}
+
+td#plaatjeotter {
+    background-color: lime;
+}
+
+td#d {
+    background-color: coral;
+}
+
+div#olifant {
+    background-color: crimson;
+}
+
+td#plaatjeolifant {
+    background-color: darkblue;
+}
+
+td#e {
+    background-color: darkred;
+}
+
+div#vos {
+    background-color: whitesmoke;
+}
+
+td#plaatjevos {
+    background-color: hotpink;
+}
+
+td#f {
+    background-color: blue;
+}
+
+div#kat {
+    background-color: chartreuse;
+}
+
+td#plaatjekat {
+    background-color: seagreen;
+}
+
+td#g {
+    background-color: burlywood;
+}
+
+div#muis {
+    background-color: cornflowerblue;
+}
+
+td#plaatjemuis {
+    background-color: royalblue;
+}
+
+td#h {
+    background-color: purple;
+}
+
+div#kraai {
+    background-color: deeppink;
+}
+
+td#plaatjekraai {
+    background-color: fuchsia;
+}
